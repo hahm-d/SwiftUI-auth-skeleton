@@ -1,0 +1,6 @@
+framework module Pods_SwiftUI_Auth_Skeleton {
+  umbrella header "Pods-SwiftUI-Auth-Skeleton-umbrella.h"
+
+  export *
+  module * { export * }
+}
